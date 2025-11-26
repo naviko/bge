@@ -1,0 +1,7 @@
+Demo License Agreement
+	1.	This project is provided for demonstration and evaluation only.
+	2.	You may view, run, and study the code for personal understanding.
+	3.	You may not copy, modify, distribute, or incorporate any part of this project into your own work without explicit written permission from the author.
+	4.	You may not use this project, or any derivative of it, for commercial, educational, or private development purposes without permission.
+	5.	All rights not expressly granted are reserved by the author.
+	6.	Permission requests must be made directly to the author and are granted at the author’s sole discretion.
