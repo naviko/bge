@@ -95,7 +95,8 @@
     </script>
 
     <!-- Load your Phaser game (production bundle) -->
-    <script type="module" src="dist/main.js"></script>
+    <!-- Add version query to bust caches when deploying new builds. -->
+    <script type="module" src="dist/main.js?v=10"></script>
 
 </body>
 </html>
